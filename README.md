@@ -4,7 +4,6 @@ Tech is how I make sense of the world — and I'm just getting started.
 
 ## A bit about me:
 - 🎓 Software Engineering Student
-- ⚡ I chose to learn tech when most people said it was too hard
 
 ## Find me here:
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/aminncade)
