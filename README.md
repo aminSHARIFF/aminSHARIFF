@@ -73,7 +73,7 @@ Features
 
 ## 📈 GitHub Stats
 
-(Add GitHub stats cards here)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminSHARIFF&show_icons=true&theme=tokyonight)
 
 ---
 
