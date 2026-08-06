@@ -79,7 +79,7 @@ Features
 
 ## 📫 Connect With Me
 
-Email: amin29536.com
+Email: amin29536@gmail.com
 
 twitter: https://x.com/AminnCade
 
