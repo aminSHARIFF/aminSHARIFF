@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sharif</h1>
+<h1 align="center">Hi , I'm Mohamed Sharif</h1>
 
 <h3 align="center">
 Python Developer | Flask Backend Engineer | React Frontend Developer
@@ -10,7 +10,7 @@ Building modern web applications with clean architecture and scalable APIs.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🔥 Passionate about Backend Development
 - 🐍 Python & Flask Developer
@@ -58,7 +58,7 @@ Building modern web applications with clean architecture and scalable APIs.
 
 
 
-### 📊 Student Management System
+###  Student Management System
 
 React + Flask application.
 
