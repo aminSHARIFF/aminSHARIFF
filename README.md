@@ -1,18 +1,86 @@
-# Hey, I'm Amin 👋
+<h1 align="center">Hi 👋, I'm Mohamed Sharif</h1>
 
-Tech is how I make sense of the world — and I'm just getting started.
+<h3 align="center">
+Python Developer | Flask Backend Engineer | React Frontend Developer
+</h3>
 
-## A bit about me:
-- 🎓 Software Engineering Student
+<p align="center">
+Building modern web applications with clean architecture and scalable APIs.
+</p>
 
-## Find me here:
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/aminncade)
+---
 
-## What I work with:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+## 🚀 About Me
+
+- 🔥 Passionate about Backend Development
+- 🐍 Python & Flask Developer
+- ⚛️ React Frontend Enthusiast
+- 🗄️ SQL & Database Design
+- 🔗 REST API Development
+- ☁️ Learning Cloud Deployment
+- 📚 Always learning new technologies
+
+---
+
+### Languages
+
+- Python
+- JavaScript
+- HTML
+- CSS
+
+### Backend
+
+- Flask
+- Flask RESTful
+- SQLAlchemy
+- JWT Authentication
+
+### Frontend
+
+- React
+- Vite
+- Bootstrap
+- Tailwind CSS
+
+### Database
+
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+
+
+### 📊 Student Management System
+
+React + Flask application.
+
+Features
+
+- Dashboard
+- CRUD
+- Charts
+- Authentication
+
+---
+
+## 📈 GitHub Stats
+
+(Add GitHub stats cards here)
+
+---
+
+## 📫 Connect With Me
+
+Email: amin29536.com
+
+twitter: https://x.com/AminnCade
+
+LinkedIn: linkedin.com/in/Mohamed Shariff
